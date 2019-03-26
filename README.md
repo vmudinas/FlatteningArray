@@ -1,0 +1,2 @@
+# FlatteningArray
+FlatteningArray for interview
